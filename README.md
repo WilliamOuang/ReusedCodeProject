@@ -1,2 +1,2 @@
 # ReusedCodeProject
-Java Web Maven Archetype
+Java Web Maven Prototype
